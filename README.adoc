@@ -1,0 +1,111 @@
+= Node Sarradar Calendar library
+
+The people of Sarradar mark the passage of time according to the standards
+developed by the Ancients millennia ago. Even since the fall of the Ancients,
+almost all of the realms have continued to use this standard, partially out of
+convenience, but for the most part because it is accurate. The only changes
+made since the fall of the Ancients are in the names of the days, and the
+dating of the years.
+
+* Days are 24 hours long
+	* Days are divided into two daytime periods and two nighttime periods,
+	  each of six hours. These are known as: Morning, Afternoon, Evening,
+	  Nightfall.
+* Weeks consists of 10 days.
+* Months consist of 3 weeks (30 days).
+* Years are 365 days long and are divided into 12 months.
+	* There are an extra five days at the end of each year. These five extra
+	  days are known as intercalary days or the Sazarian Days and the Ancients
+	  treated it as a sacred half-week dedicated to the god Sazariel. 
+
+== Month Names
+In order from the start of the year to the end, the months are known as
+follows;
+
+[options="header"]
+|=============================================================================
+ |Month	|Name			   |Season
+s|1		|MorningStar	.3+|Spring
+s|2		|Snowmelt
+s|3		|Newseed
+s|4		|Verdantwood	.3+|Summer
+s|5		|Dawnlight
+s|6		|Suncrest
+s|7		|Midyear		.3+|Autumn
+s|8		|Harvestfall
+s|9		|Hearthfire
+s|10	|Frostfall		.3+|Winter
+s|11	|Dusklight
+s|12	|Evenstar
+s|*		|Sazarian Days	   |Winter-Spring
+|=============================================================================
+
+These names are said to have originated from the land of Avyrnas, and have
+been used in the place of the Ancient names for the months since their
+empire’s fall. The months are divided into four seasons of Spring, Summer,
+Autumn and Winter, with the Sazarian Days marking the end of Winter and the
+start of Spring, making a calendar that is focused around the seasonal changes
+on Sarradar’s southern hemisphere.
+
+== Day Names
+The days are known either by their Old Tongue names or by their Common Tongue
+names as listed below;
+
+[options="header"]
+|=============================================================================
+    |Day		2+^|Language
+    |			  e|Common		e|Old Tongue
+   s|1			   |Monday		 |Morandas
+   s|2			   |Tuesday		 |Tyrdas
+   s|3			   |Wednesday	 |Vedensdas
+   s|4			   |Homeday		 |Heimdas
+   s|5			   |Loreday		 |Loredas
+   s|6			   |Middleday	 |Middas
+   s|7			   |Thursday	 |Thurdas
+   s|8			   |Friday		 |Freydas
+   s|9			   |Saturday	 |Sathardas	
+   s|10			   |Sunday		 |Sunedas
+|=============================================================================
+
+For most, the measurement of time on a daily scale is a matter of estimation
+or consultation of a sundial, or listening out for the town clock. In the
+fortunate case that an individual has knowledge of the magic of Divination,
+the time can be told with almost absolute accuracy. It is therefore not an
+uncommon occurrence that a town will try to ensure it has at least one novice
+mage with the ability to magically tell the time, given how handy it is for
+the planning of events and labour schedules.
+
+To bring time to the people, tinkers in Alteraan have in the last few decades
+been able to reduce the size of the mechanical clocks to produce
+pocketwatches. While still expensive and uncommon, they are highly sought
+after my humble merchants to dashing adventurers alike.
+
+== Work days and rest days
+It was the custom across the Empire of the Ancients that within a week the
+fifth, ninth and tenth days were to be days of rest, though not necessarily
+for their slaves. Nowadays the tradition has continued in Alteraan,
+Sachsenheim and Valeria. In Korashur the fourth day is also taken as a rest
+day. In the Dra’zhar lands there are no specific days of rest.
+
+=== Intercalary Day Cultural Practices
+During the intercalary days at the end of each year, the Ancients allowed even
+slaves to put down their tools, rest, and pay homage to the gods. At the end
+of the five days the new year began. Across the Five Realms this half-week is
+still taken as a time of relaxation, though each culture treats it in a
+different way with their own particular rituals and homages.
+
+* For the Sachsens it is a time to honour the dead, burning offerings and
+  speaking the rites of remembrance.
+* Amongst the Dra’zhar the whole tribe will focus on repairing broken tools
+  and gear, and mending relationships if enmities have arisen.
+* The Alteraanians take the time to share gifts amongst their family and
+  household and hold lavish parties. 
+* In the Empire of Valeria the faithful will attend church services and pray
+  to The Twelve and Chiera for forgiveness for any sins over the year, and for
+  her blessings in the coming year. 
+* Lastly, in the land of Korashur the magelords follow most closely the
+  traditions of the Ancients, coming down from their sanctums and residing
+  with the lower classes as they pay homage to the Primes.
+
+From http://cruciblelarp.com/time
+

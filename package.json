@@ -1,0 +1,23 @@
+{
+  "name": "node-calendar-sarradar",
+  "version": "1.0.0",
+  "description": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cruciblelarp/node-calendar-sarradar.git"
+  },
+  "keywords": [
+    "calendar",
+    "sarradar"
+  ],
+  "author": "Peter Cummuskey <peterc@aetheric.co.nz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruciblelarp/node-calendar-sarradar/issues"
+  },
+  "homepage": "https://github.com/cruciblelarp/node-calendar-sarradar#readme"
+}
